@@ -15,7 +15,7 @@ ignoring the constant coefficient and removing the insignificant part, which is 
 
 Here, in the example above, complexity of Θ(n2) means, that the avaerage time for any input n will remain in between, k1 * n2 and k2 * n2, where k1, k2 are two constants, therby tightly binding the expression rpresenting the growth of the algorithm.
 
-![alt text](https://github.com/sangkhochil/java/blob/main/Resources/asymptotic_notation.png?raw=true)
+![alt text](https://github.com/sangkhochil/Data-Structure-and-algorithm/blob/main/Resources/asymptotic_notation.png?raw=true)
 
 #### Upper Bounds: Big-O (Worst Case)
 This notation is known as the upper bound of the algorithm, or a Worst Case of an algorithm.
